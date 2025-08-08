@@ -1,0 +1,4 @@
+facility_id,facility_name,employee_count,number_of_offered_services,expiry_date_of_first_accreditation
+FAC12345,City Hospital,250,5,2025-06-30 0:00:00
+FAC54321,Green Valley Clinic,85,2,2024-09-30 0:00:00
+FAC67890,Lakeside Medical Center,320,4,2025-12-31 0:00:00
