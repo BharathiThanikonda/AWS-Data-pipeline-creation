@@ -58,7 +58,7 @@ temp/
 
 # Results that might contain sensitive data
 
-*.json
+
 !**/sample*.json
 !**/test*.json
 

@@ -1,0 +1,13 @@
+{
+  "processing_date": "2025-08-07T13:03:32.308910",
+  "total_facilities_processed": 1,
+  "output_location": "s3://healthcare-facility-data/filtered/expiring_facilities_20250807_130332.json",
+  "filter_criteria": "Accreditations expiring within 6 months",
+  "facilities_summary": [
+    {
+      "facility_id": "FAC67890",
+      "facility_name": "Lakeside Medical Center",
+      "expiring_count": 1
+    }
+  ]
+}
